@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langgraph
+google-generativeai
+pydantic
+markdown
+textblob
+python-dotenv
+gradio
+httpx
